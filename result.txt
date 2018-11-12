@@ -1,0 +1,15 @@
+Calclation result for DCS: 
+
+Basic infomation ||
+Exported Date : Nov  6 2018
+Exported Time : 20:14:37
+Exported File Name : C:\Users\tch2\Desktop\calc.cpp
+
+Common Result ||
+Mean of 10000's' result = 50.8699
+S.D. of 10000's result = 507.043
+Var. of 10000's result = 257092
+
+Calcation Results ||
+The Score (Zi) : 87
+The Standard Score (Zr) : 0.0712565
