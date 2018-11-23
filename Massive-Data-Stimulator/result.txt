@@ -1,0 +1,18 @@
+Calclation result for DCS: 
+
+Basic infomation ||
+Exported Date : Nov 23 2018
+Exported Time : 16:04:30
+Exported File Name : h:\git_sync\massive-data-stimulator\massive-data-stimulator\massive-data-stimulator.cpp
+
+Inputted Data ||
+Set (DBS) Initiated sizes : 10
+Count (RPT) Initiated times : 10
+Total Items (TOI) : 100
+Initial (First Ratio) Random Number : 1
+Terminated (Last Ratio) Random Number : 100
+
+Calcation Results ||
+Mean of 100's' result = 47.48
+S.D. of 100's result = 143.414
+Var. of 100's result = 20567.5
